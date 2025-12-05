@@ -101,4 +101,3 @@ Each PDF report contains detailed analysis and discussion of results, including 
 
 **Ahmed Idris**
 
-*Machine Learning Coursework — November 2024*
