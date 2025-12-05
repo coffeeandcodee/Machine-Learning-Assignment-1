@@ -2,7 +2,9 @@
 
 **Final Grade: 92%** ✨
 
-This repository contains my completed coursework for a university Machine Learning module. The assignment is divided into three parts, each exploring fundamental ML concepts through hands-on implementation in Python using **PyTorch**.
+This repository contains my completed coursework for a university Machine Learning module at QMUL.
+
+The assignment was divided into three parts, each exploring fundamental ML concepts through hands-on implementation in Python using **PyTorch**.
 
 ---
 
