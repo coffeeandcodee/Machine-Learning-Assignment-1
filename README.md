@@ -1,4 +1,4 @@
-# 🎓 Machine Learning Foundations — University Coursework
+# Machine Learning Foundations 
 
 **Final Grade: 92%** ✨
 
